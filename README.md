@@ -209,8 +209,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [watch](https://github.com/NimaOBR/Link_Downloader_Iran_War/tree/main/downloads/watch)
+1. [termux-app_v0.119.0-beta.3+apt-android-7-github-debug_arm64-v8a](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/termux-app_v0.119.0-beta.3+apt-android-7-github-debug_arm64-v8a)
+
+2. [watch](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/watch)
 
 ---
