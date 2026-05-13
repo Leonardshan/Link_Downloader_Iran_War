@@ -213,12 +213,16 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [slipnet-darwin-arm64](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/slipnet-darwin-arm64)
+1. [SlipNet-v2.5.3-full-release-arm64-v8a](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/SlipNet-v2.5.3-full-release-arm64-v8a)
 
-2. [termux-app_v0.119.0-beta.3+apt-android-7-github-debug_arm64-v8a](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/termux-app_v0.119.0-beta.3+apt-android-7-github-debug_arm64-v8a)
+2. [slipnet-darwin-arm64](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/slipnet-darwin-arm64)
 
-3. [watch](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/watch)
+3. [termux-app_v0.119.0-beta.3+apt-android-7-github-debug_arm64-v8a](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/termux-app_v0.119.0-beta.3+apt-android-7-github-debug_arm64-v8a)
+
+4. [watch](https://github.com/Leonardshan/Link_Downloader_Iran_War/tree/main/downloads/watch)
 
 ---
